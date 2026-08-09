@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="background">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <color name="user_message_bg">#007AFF</color>
+    <color name="user_message_text">#FFFFFF</color>
+    <color name="ai_message_bg">#E5E5EA</color>
+    <color name="ai_message_text">#000000</color>
+    
+    <color name="input_background">#FFFFFF</color>
+    <color name="warning_bg">#FFF3CD</color>
+    <color name="warning_text">#856404</color>
+    
+    <color name="primary">#007AFF</color>
+    <color name="primary_dark">#0056CC</color>
+</resources>

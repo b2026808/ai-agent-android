@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Agent</string>
+    <string name="hint_input">输入消息...</string>
+    <string name="btn_send">发送</string>
+    <string name="loading">AI 思考中...</string>
+    <string name="error_api_key">请先配置 API Key</string>
+    <string name="error_request">请求失败</string>
+</resources>
